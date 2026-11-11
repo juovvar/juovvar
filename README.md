@@ -8,10 +8,10 @@ Apasionado por el desarrollo backend, la gestión de bases de datos y el diseño
 
 ### Tecnologías y Herramientas
 
-- **Lenguajes:** Java (21+), JavaScript, CSS y HTML, PHP.
+- **Lenguajes:** Java (21), Python, PHP, JavaScript, CSS y HTML.
 - **Backend:** JDBC, Java HTTPServer, Maven, Apache.
 - **Bases de Datos:** PL/SQL, MySQL y PostgreSQL, MongoDB.
-- **Herramientas & Entornos:** Git Bash, GitHub Desktop, VSCode, IntelliJ IDEA o NetBeans, Claude Code CLI.
+- **Herramientas & Entornos:** Git Bash, GitHub Desktop, VSCode, IntelliJ IDEA o NetBeans, Pycharm, Claude Code CLI.
 - **En Aprendizaje / Próximos Pasos:** Spring/Spring Boot
 
 ---
@@ -20,7 +20,7 @@ Apasionado por el desarrollo backend, la gestión de bases de datos y el diseño
 
 - **[Simulador de Tablas de Verdad](https://github.com/juovvar/simulador):** Aplicación web desarrollada con Java 21 de un simulador de tablas de verdad.
 - **[Biblioteca](https://github.com/juovvar/biblioteca-digital):** Proyecto robusto desarrollado en PHP Nativo y MySQL enfocado en proporcionar una plataforma fluida y segura para la exploración, lectura y descarga de libros en línea, complementado con un sistema completo de gestión de usuarios y reseñas.
-- **[SendaPace](https://github.com/juovvar/SendaPaceApp):**
+- **[SendaPace](https://github.com/juovvar/senda-pace):**
 
 ---
 
